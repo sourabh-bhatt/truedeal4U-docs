@@ -147,4 +147,124 @@ For tourists, obtaining a visa is often a mandatory step before embarking on int
 
 3. [Australia](./countries/Australia.md)
 
-4. 
+4. [Austria](./countries/Austria.md)
+
+5. [Azerbaijan](./countries/Azerbaijan.md)
+
+6. [Bahrain](./countries/Bahrain.md)
+
+7. [Belgium](./countries/Belgium.md)
+
+8. [Brazil](./countries/Brazil.md)
+
+9. [Cambodia](./countries/Cambodia.md)
+
+10. [Canada](./countries/Canada.md)
+
+11. [China](./countries/China.md.md)
+
+12. [Combodia(E-Visa)](./countries/Combodia(E-Visa).md)
+
+13. [Crotia](./countries/Crotia.md)
+
+14. [Czech Republic](./countries/Czech%20Republic.md)
+
+15. [Denmark](./countries/Denmark.md)
+
+16. [Egypt(E-Visa)](./countries/Egypt(E-Visa).md)
+
+17. [Egypt](./countries/Egypt.md)
+
+18. [Estonia](./countries/Estonia.md)
+
+19. [Ethiopia](./countries/Ethiopia.md)
+
+20. [Finland](./countries/Finland.md)
+
+21. [France](./countries/France.md)
+
+22. [Germany](./countries/Germany.md)
+
+23. [Greece](./countries/Greece.md)
+
+24. [Hongkong](./countries/Hongkong.md)
+
+25. [Hungary](./countries/Hungary.md)
+
+26. [Iceland](./countries/Iceland.md)
+
+27. [Indonesia](./countries/Indonesia.md)
+
+28. [Ireland](./countries/Ireland.md)
+
+29. [Japan](./countries/Japan.md)
+
+30. [Jordan(E-Visa)](./countries/Jordan(E-Visa).md)
+
+31. [Kenya](./countries/Kenya.md)
+
+32. [Kyrgyzstan](./countries/Kyrgyzstan.md)
+
+33. [Lithuania](./countries/Lithuania.md)
+
+34. [Madagascar](./countries/Madagascar.md)
+
+35. [Malaysia](./countries/Malaysia.md)
+
+36. [Morocco](./countries/Morocco.md)
+
+37. [Morocco(E-Visa)](./countries/Moroco(E-Visa).md)
+
+38. [Myanmar](./countries/Myanmar.md)
+
+39. [Netherlands](./countries/Netherlands.md)
+
+40. [New Zealand](./countries/New%20Zealand.md)
+
+41. [Nigeria](./countries/Nigeria.md)
+
+42. [Norway](./countries/Norway.md)
+
+43. [Oman](./countries/Oman.md)
+
+44. [Philippines](./countries/Philippines.md)
+
+45. [Poland](./countries/Poland.md)
+
+46. [Portugal](./countries/Portugal.md)
+
+47. [Russia](./countries/Russia.md)
+
+48. [Singapore](./countries/Singapore.md)
+
+49. [Slovenia](./countries/Slovenia.md)
+
+50. [South Korea](./countries/Sourth%20Korea.md)
+
+51. [South Africa](./countries/South%20Africa.md)
+
+52. [Sri Lanka](./countries/Sri%20Lanka.md)
+
+53. [Switzerland](./countries/Switzerland.md)
+
+54. [Taiwan](./countries/Taiwan.md)
+
+55. [Tanzania](./countries/Tanzania.md)
+
+56. [Thailand](./countries/Thailand.md)
+
+57. [Turkey](./countries/Turkey.md)
+
+58. [UAE](./countries/UAE.md)
+
+59. [United Kingdom](./countries/United%20Kingdom.md)
+
+60. [USA](./countries/USA.md)
+
+61. [Uzbekistan](./countries/Uzbekistan.md)
+
+62. [Vietnam](./countries/Vietnam.md)
+
+63. [Zambia](./countries/Zambia.md)
+
+64. [Sweden](./countries/Sweden.md)

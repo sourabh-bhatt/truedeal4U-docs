@@ -26,7 +26,7 @@ Tourists need local currency to pay for services and goods during their trips.
 
 1. We only sell foreign currency to tourists.
 2. Cash Limit: 3000 USD
-3. Forex Card Limit: 10k USD
+3. Forex Card Limit: Upto 2.50 Lakh USD (prescribed limit)
 
 ## Steps for Foreign Currency Exchange
 
@@ -106,3 +106,45 @@ Key features of Remittance Services offered by Truedeal:
 - Receiving Funds: Travelers receive remittances via AD-1 banks.
 
 ## VISA
+
+A visa is an official document or stamp in a passport that allows the holder to enter, stay in, or leave a country for a specified period. 
+
+## Steps for getting a VISA
+
+For tourists, obtaining a visa is often a mandatory step before embarking on international travel. Here’s an overview of the visa process and its importance in tourism:
+
+#### 1. Purpose:
+
+- Tourist visas are issued specifically for leisure travel, allowing visitors to explore and enjoy the destination country. They typically do not permit work or long-term stays.
+
+#### 2. Types of Tourist Visas:
+
+- Single-Entry Visa: Allows one entry into the country. Once you leave, the visa becomes invalid.
+
+- Multiple-Entry Visa: Permits multiple entries into the country within a specified period.
+
+- E-Visa: An electronic visa that can be applied for online and received digitally.
+
+### Key aspects of getting VISA Services by Truedeal: 
+
+1. Application Process:
+
+- Research Requirements: Check the specific visa requirements of the destination country, as they vary widely.
+
+- Prepare Documentation: Commonly required documents include a valid passport, recent photographs, travel itinerary, proof of accommodation, financial statements, and flight tickets.
+
+- Submit Application: Apply online through Truedeal Travel Engine.
+
+- Pay Fees: Visa application fees must be paid during submission. Fees vary depending on the country and type of visa.
+
+- Wait for Processing: Processing times can vary from a few days to several weeks, depending on the destination country.
+
+### Country-Specific Visa requirements
+
+1. [Argentina (E-Visa)](./countries/Argentina.md)
+
+2. [Armenia](./countries/Armenia.md)
+
+3. [Australia](./countries/Australia.md)
+
+4. 

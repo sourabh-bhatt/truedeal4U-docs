@@ -15,14 +15,13 @@
 11. Transfer
 12. Cruise
 
-
 ## Foreign Currency Exchange
 
 Foreign Currency Exchange in tourism involves converting one country's currency into another country to facilitate international travel and transactions.
 
 Tourists need local currency to pay for services and goods during their trips.
 
-**Note:** 
+**Note:**
 
 1. We only sell foreign currency to tourists.
 2. Cash Limit: 3000 USD
@@ -35,7 +34,7 @@ Tourists need local currency to pay for services and goods during their trips.
 - Verify identity using Passport and PAN card.
 
 2. Provide current exchange rates for buying and selling foreign currencies.
-Ensure rates are updated regularly to reflect market conditions.
+   Ensure rates are updated regularly to reflect market conditions.
 
 3. Allow the tourist to select the desired amount of foreign currency or the amount to load onto a Forex card.
 
@@ -52,16 +51,16 @@ Ensure rates are updated regularly to reflect market conditions.
 - VISA: Validate the travel authorization.
 
 6. Confirm the method and timing of delivery for the foreign currency or Forex card.
-Coordinate with the tourist to ensure timely delivery.
+   Coordinate with the tourist to ensure timely delivery.
 7. Review the transaction details with the tourist.
-Confirm the order, ensuring all details are accurate and all documents are in order.
-Complete the transaction and provide a receipt to the tourist.
+   Confirm the order, ensuring all details are accurate and all documents are in order.
+   Complete the transaction and provide a receipt to the tourist.
 
-## Forex Card 
+## Forex Card
 
-A Forex card, also known as a travel card or currency card, is a prepaid card specifically designed for travelers. It allows you to load multiple foreign currencies onto a single card, which you can then use to make purchases or withdraw cash while traveling abroad. 
+A Forex card, also known as a travel card or currency card, is a prepaid card specifically designed for travelers. It allows you to load multiple foreign currencies onto a single card, which you can then use to make purchases or withdraw cash while traveling abroad.
 
-Key features of a Forex card by Truedeal: 
+Key features of a Forex card by Truedeal:
 
 - Convenience:It can be loaded with multiple foreign currencies, allowing travelers to use a single card in multiple countries without the hassle of carrying cash or exchanging currency frequently.
 
@@ -89,9 +88,9 @@ Key features of a Forex card by Truedeal:
 
 Remittance in the context of tourism refers to the transfer of money from travelers to another country, typically to cover expenses such as travel, accommodation, food, and other services while abroad. This concept can also extend to tourists sending money home or to other locations while traveling.
 
-**Note**: 2.50 Lakh USD per person in one year can be remitted(sent back). 
+**Note**: 2.50 Lakh USD per person in one year can be remitted(sent back).
 
-Key features of Remittance Services offered by Truedeal: 
+Key features of Remittance Services offered by Truedeal:
 
 1. Payment for Travel Services:
 
@@ -107,7 +106,7 @@ Key features of Remittance Services offered by Truedeal:
 
 ## VISA
 
-A visa is an official document or stamp in a passport that allows the holder to enter, stay in, or leave a country for a specified period. 
+A visa is an official document or stamp in a passport that allows the holder to enter, stay in, or leave a country for a specified period.
 
 ## Steps for getting a VISA
 
@@ -125,7 +124,7 @@ For tourists, obtaining a visa is often a mandatory step before embarking on int
 
 - E-Visa: An electronic visa that can be applied for online and received digitally.
 
-### Key aspects of getting VISA Services by Truedeal: 
+### Key aspects of getting VISA Services by Truedeal:
 
 1. Application Process:
 
@@ -163,7 +162,7 @@ For tourists, obtaining a visa is often a mandatory step before embarking on int
 
 11. [China](./countries/China.md.md)
 
-12. [Combodia(E-Visa)](./countries/Combodia(E-Visa).md)
+12. [Combodia(E-Visa)](<./countries/Combodia(E-Visa).md>)
 
 13. [Crotia](./countries/Crotia.md)
 
@@ -171,7 +170,7 @@ For tourists, obtaining a visa is often a mandatory step before embarking on int
 
 15. [Denmark](./countries/Denmark.md)
 
-16. [Egypt(E-Visa)](./countries/Egypt(E-Visa).md)
+16. [Egypt(E-Visa)](<./countries/Egypt(E-Visa).md>)
 
 17. [Egypt](./countries/Egypt.md)
 
@@ -199,7 +198,7 @@ For tourists, obtaining a visa is often a mandatory step before embarking on int
 
 29. [Japan](./countries/Japan.md)
 
-30. [Jordan(E-Visa)](./countries/Jordan(E-Visa).md)
+30. [Jordan(E-Visa)](<./countries/Jordan(E-Visa).md>)
 
 31. [Kenya](./countries/Kenya.md)
 
@@ -213,7 +212,7 @@ For tourists, obtaining a visa is often a mandatory step before embarking on int
 
 36. [Morocco](./countries/Morocco.md)
 
-37. [Morocco(E-Visa)](./countries/Moroco(E-Visa).md)
+37. [Morocco(E-Visa)](<./countries/Moroco(E-Visa).md>)
 
 38. [Myanmar](./countries/Myanmar.md)
 
@@ -268,3 +267,78 @@ For tourists, obtaining a visa is often a mandatory step before embarking on int
 63. [Zambia](./countries/Zambia.md)
 
 64. [Sweden](./countries/Sweden.md)
+
+## Travel Insurance
+
+Travel insurance in tourism is a type of insurance designed to cover unexpected expenses and losses that may occur while traveling. It provides financial protection against various risks that travelers may encounter before, during, or after their trip.
+
+## Travel Insurance offerings provided by Truedeal:
+
+The travel insurance plans provided offer various levels of coverage and benefits tailored to individual travelers. Below is a comprehensive overview of the cumulative offerings across different plans:
+
+---
+
+## Coverage Amounts
+
+- **Plan Types**: Individual
+- **Coverage Range**: $50,000
+- **Premium Range**: ₹877 to ₹1,789
+
+---
+
+## Key Benefits
+
+### Medical and Emergency Expenses
+
+- **Medical Expenses and Evacuation**: Coverage from $50,000 to $1,000,000
+- **Emergency Dental Pain Relief**: Up to $500
+- **Medical Evacuation**: Up to $1,000,000
+- **Repatriation of Mortal Remains**: Up to $50,000
+
+### Personal Accident and Liability
+
+- **Personal Accident**: Coverage from $10,000 to $25,000
+- **Accidental Death and Dismemberment (Common Carrier)**: Up to $5,000
+- **Personal Liability**: Coverage from $50,000 to $200,000
+
+### Travel Inconveniences
+
+- **Loss of Checked Baggage**: Up to $1,200
+- **Delay of Checked Baggage**: Up to $100 (after 12 hours)
+- **Loss of Passport**: Up to $300
+- **Trip Delay**: $20 to $50 per 12 hours (max $120 to $180)
+- **Trip Cancellation and Interruption**: Up to $1,000
+- **Missed Connection**: Up to $500
+
+### Special Covers
+
+- **Hijack Cover**: $50 to $75 per day (max $300 to $360)
+- **Hospitalization Daily Allowance**: $25 per day (max 5 to 6 days)
+- **Golfer's Hole-in-one**: Up to $500
+- **Home Burglary Insurance**: Up to INR 300,000
+- **Emergency Cash Benefit**: Up to $1,500
+- **Financial Emergency Assistance**: Up to $300
+- **Bounced Hotel/Airline Booking**: Up to $500
+- **PA Cover in India**: INR 50,000
+
+---
+
+## Deductibles
+
+- **Medical Expenses and Evacuation**: $50 to $100
+- **Emergency Dental Relief**: $50 to $100
+- **Loss of Passport**: $25 to $30
+- **Trip Delay**: 12 hours deductible
+
+---
+
+## Additional Notes
+
+- Policies generally exclude pre-existing medical conditions.
+- Premiums are inclusive of 18% GST.
+- Some benefits are limited by special conditions for senior citizens (61-70 years).
+- Coverage for personal accident may be reduced for individuals under 18 years of age.
+
+#### Reference: https://agents.akbartravelsonline.com/b2bplus/flight
+
+## Cruise

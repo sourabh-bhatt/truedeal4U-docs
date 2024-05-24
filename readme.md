@@ -342,3 +342,71 @@ The travel insurance plans provided offer various levels of coverage and benefit
 #### Reference: https://agents.akbartravelsonline.com/b2bplus/flight
 
 ## Cruise
+
+Cruise tourism is a sector of the tourism industry that involves traveling on a cruise ship to various destinations.
+
+### Introduction to Cruise Offerings
+
+Truedeal offers an array of cruise options that allow travelers to explore international destinations with ease and luxury. We understand that customers already have specific cruises in mind, so we've compiled detailed information about each cruise's offerings to help them make informed decisions.
+
+### List of Cruise Offerings
+
+Below are the details for the 40 cruises available from India to various foreign destinations. Each cruise provides unique amenities and experiences, ensuring that there is something for every type of traveler.
+
+#### 1. **Cruise Name 1**
+
+- **Destination:** Destination Country
+- **Duration:** X days
+- **Cabin Types:** Interior, Oceanview, Balcony, Suite
+- **Amenities:**
+  - Dining: Multiple restaurants offering various cuisines
+  - Entertainment: Live shows, movie theaters, casinos
+  - Activities: Swimming pools, fitness centers, sports courts
+  - Special Features: Spa services, kids’ clubs, onboard shopping
+
+#### 2. **Cruise Name 2**
+
+- **Destination:** Destination Country
+- **Duration:** X days
+- **Cabin Types:** Interior, Oceanview, Balcony, Suite
+- **Amenities:**
+  - Dining: Fine dining, buffets, cafes
+  - Entertainment: Theaters, comedy clubs, nightclubs
+  - Activities: Rock climbing, mini-golf, water parks
+  - Special Features: Wellness programs, educational workshops, art galleries
+
+#### 3. **Cruise Name 3**
+
+- **Destination:** Destination Country
+- **Duration:** X days
+- **Cabin Types:** Interior, Oceanview, Balcony, Suite
+- **Amenities:**
+  - Dining: Specialty restaurants, room service
+  - Entertainment: Music performances, dance clubs
+  - Activities: Yoga classes, sports tournaments
+  - Special Features: Private island excursions, personalized concierge services
+
+_... (List continues for all 40 cruises) ..._
+
+### Key Features Across All Cruises
+
+While each cruise has unique offerings, there are some common features across all the cruises provided by Truedeal:
+
+- **All-Inclusive Packages:** Most cruises offer all-inclusive packages that cover meals, drinks, and selected activities.
+- **Customizable Itineraries:** Passengers can customize their itineraries to include preferred activities and excursions.
+- **Family-Friendly Options:** Special programs and activities are available for children and teenagers.
+- **Luxury Amenities:** High-end amenities such as spas, fitness centers, and gourmet dining are standard on all cruises.
+- **Entertainment:** A variety of entertainment options, including live shows, movie screenings, and nightclubs.
+- **Wellness Programs:** Access to wellness programs including yoga, meditation, and fitness classes.
+
+### Booking and Additional Services
+
+- **Booking Process:** Customers can book their cruise through the Truedeal Travel Engine, where they can choose their preferred cruise, cabin type, sailing sources, dates and additional details.
+- **Documentation:** Necessary documentation such as passports, visas, and travel insurance must be arranged before departure.
+- **Customer Support:** Truedeal provides 24/7 customer support to assist with any inquiries or issues before, during, and after the cruise.
+
+### Cruise Details
+
+Check all cruise details here:
+
+[All avaialable Cruises](Cruise.md)

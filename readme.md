@@ -353,41 +353,6 @@ Truedeal offers an array of cruise options that allow travelers to explore inter
 
 Below are the details for the 40 cruises available from India to various foreign destinations. Each cruise provides unique amenities and experiences, ensuring that there is something for every type of traveler.
 
-#### 1. **Cruise Name 1**
-
-- **Destination:** Destination Country
-- **Duration:** X days
-- **Cabin Types:** Interior, Oceanview, Balcony, Suite
-- **Amenities:**
-  - Dining: Multiple restaurants offering various cuisines
-  - Entertainment: Live shows, movie theaters, casinos
-  - Activities: Swimming pools, fitness centers, sports courts
-  - Special Features: Spa services, kids’ clubs, onboard shopping
-
-#### 2. **Cruise Name 2**
-
-- **Destination:** Destination Country
-- **Duration:** X days
-- **Cabin Types:** Interior, Oceanview, Balcony, Suite
-- **Amenities:**
-  - Dining: Fine dining, buffets, cafes
-  - Entertainment: Theaters, comedy clubs, nightclubs
-  - Activities: Rock climbing, mini-golf, water parks
-  - Special Features: Wellness programs, educational workshops, art galleries
-
-#### 3. **Cruise Name 3**
-
-- **Destination:** Destination Country
-- **Duration:** X days
-- **Cabin Types:** Interior, Oceanview, Balcony, Suite
-- **Amenities:**
-  - Dining: Specialty restaurants, room service
-  - Entertainment: Music performances, dance clubs
-  - Activities: Yoga classes, sports tournaments
-  - Special Features: Private island excursions, personalized concierge services
-
-_... (List continues for all 40 cruises) ..._
-
 ### Key Features Across All Cruises
 
 While each cruise has unique offerings, there are some common features across all the cruises provided by Truedeal:

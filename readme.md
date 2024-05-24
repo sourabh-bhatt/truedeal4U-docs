@@ -410,3 +410,7 @@ While each cruise has unique offerings, there are some common features across al
 Check all cruise details here:
 
 [All avaialable Cruises](Cruise.md)
+
+### References:
+
+https://deckpro.in/agent/search/list?departure_port=SINGAPORE&continent=&sailing_months=&vessel=&duration=#

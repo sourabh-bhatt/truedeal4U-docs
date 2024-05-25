@@ -391,6 +391,8 @@ Sightseeing is a fundamental aspect of tourism, involving the exploration and vi
 
 Private sightseeing offers personalized tours tailored to the preferences and interests of individual travelers or small groups. It provides flexibility in itinerary, pace, and choice of attractions. With a dedicated guide or driver, travelers enjoy an exclusive, immersive experience.
 
+**Note:** We provide B2B rates in sightseeing.
+
 ### SIC (Sit-in-Coach) Sightseeing
 
 SIC sightseeing involves joining a larger group on organized tours, typically traveling together in a coach or bus. It offers a cost-effective option as expenses are shared among participants. While lacking the flexibility of private tours, SIC tours provide a structured itinerary and the chance to meet fellow travelers.
@@ -483,6 +485,9 @@ Air tickets are a crucial component of modern tourism, enabling travelers to rea
 
 - **Direct Booking through Truedeal**: Truedeal offers a seamless booking experience through its user-friendly website and mobile app. Travelers can search for flights, compare prices, and book tickets directly with Truedeal, ensuring a hassle-free process.
 
+- Online Fares: Direct Booking
+- Offline Faes: Seat Purchase, Non-Refundable bookings, No change in tickets after bookings. This type of booking is also called series fare.
+
 - **Comparison Tools**: Truedeal’s platform includes advanced search and comparison tools, allowing travelers to compare flights from different airlines, check schedules, and find the best deals. This feature ensures that travelers get the most value for their money.
 
 - **Travel Support**: Truedeal provides a seemless customer support to assist travelers with any booking queries, changes, or cancellations.
@@ -571,3 +576,4 @@ A holiday package in tourism is a comprehensive travel arrangement that includes
 
 Holiday packages are ideal for travelers looking for a hassle-free vacation where most details are pre-arranged, allowing them to focus on enjoying their trip. They offer a balanced mix of relaxation, adventure, and cultural exploration, ensuring a memorable holiday experience.
 
+https://doubletick.readme.io/reference/outgoing-messages-whatsapp-text

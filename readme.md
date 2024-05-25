@@ -397,7 +397,6 @@ Private sightseeing offers personalized tours tailored to the preferences and in
 
 SIC sightseeing involves joining a larger group on organized tours, typically traveling together in a coach or bus. It offers a cost-effective option as expenses are shared among participants. While lacking the flexibility of private tours, SIC tours provide a structured itinerary and the chance to meet fellow travelers.
 
-
 ### Cultural Sightseeing
 - Visiting museums, art galleries, historical sites, monuments, and religious buildings to learn about the cultural heritage and traditions of a destination.
 
@@ -433,7 +432,6 @@ Sightseeing transfers combine transportation with guided tours to popular touris
 #### Private and Shared (SIC) Transfers
 
 Transfers can be either private or shared. Private transfers offer exclusive transportation tailored to individual or group needs, providing flexibility and personalized service. Shared transfers, on the other hand, involve traveling with other passengers, offering a more cost-effective option while still providing convenient transportation solutions.
-
 
 ## HOTEL:
 
@@ -473,7 +471,6 @@ Hotels play a central role in the tourism industry by providing accommodation an
 - **Free Cancellation**: Some hotels offer free cancellation policies, allowing guests to cancel or modify their bookings without incurring any charges within a specified timeframe before the check-in date, providing flexibility and peace of mind.
 
 - **Non-Refundable Bookings**: In contrast, non-refundable bookings typically offer lower rates but come with strict cancellation policies, where guests forfeit the entire booking amount if they cancel or modify their reservation, emphasizing commitment and cost-saving for travelers willing to take the risk.
-
 
 ## AIR Tickets
 
@@ -576,4 +573,4 @@ A holiday package in tourism is a comprehensive travel arrangement that includes
 
 Holiday packages are ideal for travelers looking for a hassle-free vacation where most details are pre-arranged, allowing them to focus on enjoying their trip. They offer a balanced mix of relaxation, adventure, and cultural exploration, ensuring a memorable holiday experience.
 
-https://doubletick.readme.io/reference/outgoing-messages-whatsapp-text
+

@@ -45,3 +45,6 @@ Offer all-inclusive packages that cover every aspect of travel.
 Highlight the convenience and cost-effectiveness of full packages.
 Stress that these packages provide the best overall travel experience.
 This bullet-point format should make the information more concise and easier to digest for your team.
+
+
+10. Keeep an eye on image.
